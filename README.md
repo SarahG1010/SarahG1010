@@ -1,19 +1,19 @@
 ## Hi, I’m SARAH!
 #### I’m a big fun of CODING! 
-#### I use PYTHON a lot. I also code in SQL, GAMs and MATLAB. 
+#### I use PYTHON a lot. I also code in SQL, HTML, CSS, Javascript, GAMs and MATLAB. 
+#### I am learning buidling full stack web apps with python flask framework and HTML/CSS/Javascript.
+#### I have learned and built a <a href="https://sarahcampweb.onrender.com">yelpcamp</a> web applications with node.js last year.
+
+![casey-murphy-iXKzHecP4dQ-unsplash](https://github.com/user-attachments/assets/d52170ab-c9e3-477f-b51a-f05da47e146d)
+
+Photo by <a href="https://unsplash.com/@seemurph18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Casey Murphy</a> on <a href="https://unsplash.com/photos/selective-focus-photograph-of-white-and-green-cake-with-sparkler-candle-iXKzHecP4dQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 #### Fun fact: 
 #### I am tring to build a bakery website for my baking receipes. 
 #### Baking is similar to coding: They both need time to learn, try and practice.
 ## Love coding, love baking!
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://source.unsplash.com/close-up-photography-of-3-tier-vanilla-cake-with-blueberry-and-strawberry-toppings-_B7shfNUXEA">
- <source media="(prefers-color-scheme: light)" srcset="https://source.unsplash.com/close-up-photography-of-3-tier-vanilla-cake-with-blueberry-and-strawberry-toppings-_B7shfNUXEA">
- <img alt="YOUR-ALT-TEXT" src="https://source.unsplash.com/close-up-photography-of-3-tier-vanilla-cake-with-blueberry-and-strawberry-toppings-_B7shfNUXEA">
-</picture>
-
-Photo by <a href="https://unsplash.com/@alexagornago?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexandra Gornago</a> on <a href="https://unsplash.com/photos/close-up-photography-of-3-tier-vanilla-cake-with-blueberry-and-strawberry-toppings-_B7shfNUXEA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
 <!---
